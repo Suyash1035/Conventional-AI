@@ -1,15 +1,7 @@
 # Conventional-AI
 This project focuses on developing an AI-powered chatbot designed to assist customers by simulating natural human-like conversations. The primary goal is to reduce human workload in customer support and provide immediate, accurate responses to user queries.
 
-  <h1>Project languages</h1>
-  <div class="tools" aria-hidden="true">
-      <!-- Using Shields for reliable images + optional icon links -->
-      <a class="badge" href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">Power BI</a>
-      <a class="badge" href="https://www.mysql.com/" target="_blank" rel="noreferrer">SQL / MySQL</a>
-      <a class="badge" href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">Excel</a>
-      <a class="badge" href="#" target="_blank" rel="noreferrer">Other</a>
-    </div>
-  </div>
+
 
   <!-- Connect / icons block -->
   <h3 align="left">Connect with me:</h3>
